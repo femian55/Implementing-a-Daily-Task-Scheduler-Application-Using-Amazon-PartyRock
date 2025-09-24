@@ -2,47 +2,67 @@
 
 **Overview**
 
-This application is developed to assist obese diabetic patients in managing their daily tasks, specifically focusing on meal planning and exercise scheduling. Created using Amazon PartyRock without any coding, the application provides a detailed weekly meal plan tailored to the needs of an obese diabetic patient. It includes precise timing details and visually appealing representations of each meal, as well as scheduling options for exercise based on the patient's preferred time of day: morning, afternoon, or evening.
+This application was developed to assist obese diabetic patients in managing their daily tasks, specifically focusing on meal planning and exercise scheduling. Created using Amazon PartyRock without any coding, the application provided a detailed weekly meal plan tailored to the needs of obese diabetic patients. It included precise timing details and visually appealing representations of each meal, as well as scheduling options for exercise based on the patient’s preferred time of day: morning, afternoon, or evening.
+
 
 **Features**
 
 Personalized Weekly Meal Plans: Tailored to meet the dietary requirements of obese diabetic patients.
 
-Detailed Meal Timing: Each meal includes precise timing details to help manage blood sugar levels effectively.
+Detailed Meal Timing: Each meal included precise timing details to help manage blood sugar levels effectively.
 
-Visual Meal Representations: Visually appealing images of each meal to enhance the user experience.
+Visual Meal Representations: Visually appealing images of each meal enhanced the user experience.
 
-Exercise Scheduling: Allows the user to specify their preferred time for exercise (morning, afternoon, or evening) to encourage regular physical activity.
+Exercise Scheduling: Allowed users to specify their preferred time for exercise (morning, afternoon, or evening) to encourage regular physical activity.
 
-User-Friendly Interface: Easy-to-use interface designed for users with minimal technical expertise.
+User-Friendly Interface: Designed for users with minimal technical expertise.
+
 
 **Getting Started**
+
 **Prerequisites**
 An Amazon PartyRock account.
 Basic understanding of how to navigate the Amazon PartyRock platform.
 
+
 **Installation**
 
-Since this application is created using Amazon PartyRock, there is no need for a traditional installation process. Simply log in to your Amazon PartyRock account and follow the instructions to access the application.
+Since this application was created using Amazon PartyRock, there was no need for a traditional installation process. Users simply logged into their Amazon PartyRock account and followed the instructions to access the application.
+
+
 
 **Usage**
-Log In: Access the application by logging into your Amazon PartyRock account.
-Set Up Profile: Enter your personal details including dietary preferences and exercise preferences.
-Meal Planning: View your personalized weekly meal plan with detailed timing and visual representations.
-Exercise Scheduling: Choose your preferred time of day for exercise and add it to your daily schedule.
-Daily Overview: Check your daily tasks including meals and exercise routines to stay on track with your health goals.
+
+Log In: Users accessed the application by logging into their Amazon PartyRock account.
+
+Set Up Profile: They entered personal details including dietary and exercise preferences.
+
+Meal Planning: Users viewed their personalized weekly meal plan with detailed timing and visual representations.
+
+Exercise Scheduling: They chose their preferred time of day for exercise and added it to their daily schedule.
+
+Daily Overview: Users checked their daily tasks, including meals and exercise routines, to stay on track with their health goals.
+
+
 
 **Steps**
+
 Visit the website : https://partyrock.aws/
-Create your first application by clicking on ‘Build your own app’.
-Describe what you would like the app to do. Let’s go for something fun here!
-Click on Generate app, get some snacks and let PartyRock do the work for you!
-Click on ‘Build your own app’ and enter an appropriate prompt. 
-Click on ‘Generate App’ and wait for PartyRock to do the work for you!
-PartyRock generated an application which takes tasks to be done as an input, gives the schedule according to priorities, and even provides a chatbot to refine your schedule!
-You can try adding or changing the widgets according to your own imagination. 
+
+Create the first application by clicking on “Build your own app.”
+
+Describe the app usage.
+
+Click “Generate app” and let PartyRock create the application.
+
+PartyRock generated an application that accepted tasks as input, created schedules according to priorities, and provided a chatbot to refine schedules.
+
+Users will experiment by adding or changing widgets based on their imagination.
+
+
 
 **Application Structure**
+
 Meal Planning Module
 Personalized Recommendations: Meal plans are customized based on user input.
 Timing Details: Specific times for breakfast, lunch, dinner, and snacks.
@@ -51,11 +71,21 @@ Exercise Scheduling Module
 Time Preferences: Options for morning, afternoon, or evening exercise sessions.
 Activity Suggestions: Recommendations for suitable physical activities based on user preferences and health status.
 
+
+
 **Contributing**
+
 As this project was created using Amazon PartyRock without coding, contributions in the traditional sense are not applicable. However, feedback and suggestions for improvements are welcome.
 
+
+
 **Acknowledgments**
+
 Amazon PartyRock for providing a platform to develop this application without coding.
 
+
+
 **Conclusion**
-The Daily Task Scheduler Application for Obese Diabetic Patients aims to provide a comprehensive and user-friendly solution to help manage and improve the health of obese diabetic patients. By offering personalized meal plans and flexible exercise scheduling, the application addresses critical aspects of diabetes management. We hope this tool makes it easier for users to maintain a healthy lifestyle and achieve their wellness goals. Thank you for using our application, and we look forward to your feedback to continue enhancing its features and effectiveness.
+
+The Daily Task Scheduler Application for Obese Diabetic Patients aims to provide a comprehensive and user-friendly solution to help manage and improve the health of obese diabetic patients. By offering personalized meal plans and flexible exercise scheduling, the application addresses critical aspects of diabetes management. This tool makes it easier for users to maintain a healthy lifestyle and achieve their wellness goals.
+
